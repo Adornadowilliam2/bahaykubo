@@ -15,13 +15,7 @@ function App() {
         Bahay-kubo, kahit munti Ang halaman doon ay sari-sari Singkamas at
         talong Sigarilyas at mani Sitaw, bataw, patani Kundol, patola, upo't
         kalabasa At tsaka mayro'n pang Labanos, mustasa Sibuyas, kamatis, bawang
-        at luya Sa paligid-ligid ay puno ng linga Bahay-kubo kahit munti Ay
-        matibay at tunay nating yaman Bahay-kubo, kahit munti Matatawag nating
-        tahanan Haa-ah, la-la-la-la, la-la-la-la Ohh Bahay-kubo, kahit munti Ang
-        halaman doon ay sari-sari Pag-ibig at galak Kagandahan ng loob At
-        pagpapahinuhog Kapayapaan, pang-unawang matapat At tsaka mayro'n pang
-        Kabutihang yakap Kahinahunan Matimpi sa t'wina Sa paligid-ligid may
-        pagkakaisa Haa-ah, ta-la-la-la, ta-la-la-la-la
+        at luya Sa paligid-ligid ay puno ng linga.
       </Typography>
       <Box>
         <iframe
